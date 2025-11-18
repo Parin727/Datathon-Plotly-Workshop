@@ -1,48 +1,42 @@
-Plotly Dashboard Workshop
-Overview
+# Plotly Dashboard Workshop
 
-This workshop teaches participants how to explore datasets in Python and create interactive dashboards using Plotly. It’s ideal for beginners who want to visualize data and build hackathon-ready dashboards.
+## Overview
+This workshop teaches participants how to explore datasets in Python and create interactive dashboards using **Plotly**. It’s perfect for beginners who want to visualize data and build hackathon-ready dashboards.
 
-What You’ll Learn
+---
 
-Loading and exploring datasets with pandas
+## What You’ll Learn
+- Loading and exploring datasets with **pandas**
+- Understanding **numerical vs categorical columns**
+- Creating interactive charts using **Plotly Express**:
+  - Bar, Line, Scatter, Box, Histogram, Pie, Area, Violin, Treemap
+- Combining charts into a **dashboard layout**
+- Adding **key metrics (KPIs)** for quick insights
 
-Understanding numerical vs categorical columns
+---
 
-Creating interactive charts using Plotly Express:
+## Requirements
+- Basic knowledge of Python
+- Google Colab or Jupyter Notebook
+- No prior experience with Plotly needed
 
-Bar, Line, Scatter, Box, Histogram, Pie, Area, Violin, Treemap
+---
 
-Combining charts into a dashboard layout
+## Workshop Flow
+1. Upload dataset and explore it
+2. Create multiple charts with Plotly
+3. Build a **2×2 dashboard** with interactive visualizations
+4. Add **KPIs** for summary metrics
+5. Practice: students create their own dashboard and insights
 
-Adding key metrics (KPIs) for quick insights
+---
 
-Requirements
+## Resources
+- [Plotly Express Documentation](https://plotly.com/python/plotly-express/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
 
-Basic knowledge of Python
+---
 
-Google Colab or Jupyter Notebook
+## Note
+All workshop material is intended for **educational purposes**.
 
-No prior experience with Plotly needed
-
-Workshop Flow
-
-Upload dataset and explore it
-
-Create multiple charts with Plotly
-
-Build a 2×2 dashboard with interactive visualizations
-
-Add KPIs for summary metrics
-
-Practice: students create their own dashboard and insights
-
-Resources
-
-Plotly Express Documentation
-
-Pandas Documentation
-
-Note
-
-All workshop material is intended for educational purposes.
