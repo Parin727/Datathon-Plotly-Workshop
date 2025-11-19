@@ -5,6 +5,11 @@ This workshop teaches participants how to explore datasets in Python and create 
 
 ---
 
+## Google Colab Link:   
+https://colab.research.google.com/github/Parin727/Datathon-Plotly-Workshop/blob/main/Datathon.ipynb
+
+---
+
 ## What You’ll Learn
 - Loading and exploring datasets with **pandas**
 - Understanding **numerical vs categorical columns**
