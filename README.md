@@ -10,6 +10,11 @@ https://colab.research.google.com/github/Parin727/Datathon-Plotly-Workshop/blob/
 
 ---
 
+## Sample Dataset:    
+https://www.kaggle.com/datasets/sadiajavedd/students-academic-performance-dataset
+
+---
+
 ## What You’ll Learn
 - Loading and exploring datasets with **pandas**
 - Understanding **numerical vs categorical columns**
